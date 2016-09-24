@@ -1,9 +1,13 @@
 MessagePack.swift
 =================
+![macOS](https://img.shields.io/badge/os-macOS-green.svg)
+![Linux](https://img.shields.io/badge/os-Linux-green.svg)
+![Swift](https://img.shields.io/badge/swift-3.0-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## License
 
-MessagePack.swift is released under the [MIT license](https://github.com/a2/MessagePack.swift/blob/master/LICENSE), which is reproduced below in its entirety:
+MessagePack.swift is released under the [MIT license](https://github.com/jjacobson93/MessagePack.swift/blob/master/LICENSE), which is reproduced below in its entirety:
 
 > Copyright (c) 2015 Alexsander Akers
 > 
@@ -28,4 +32,4 @@ MessagePack.swift is released under the [MIT license](https://github.com/a2/Mess
 
 ## Availability
 
-MessagePack.swift is intended for use with Swift 2.0. Compatibility with past and future versions is not guaranteed.
+MessagePack.swift supports Swift 3.0 on macOS and Linux
